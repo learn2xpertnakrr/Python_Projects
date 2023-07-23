@@ -1,7 +1,7 @@
 def hello_world(name):
-    """Function Purpose ::: Add Hello as prefix in front of name """
+    """Function Purpose :: Add Hello as prefix in front of name """
 
-    print(f"HELLO {name} GOOD MORNING !!::!")
+    print(f"HELLO {name} GOOD MORNING !!!")
 
 
 if __name__ == '__main__':
