@@ -1,7 +1,6 @@
 def add(a, b):
     """Purpose :: To add the user given input numbers and return its sum"""
-    print(a)
-    print(b)
+
     d = a + b
     print(d)
     return d
